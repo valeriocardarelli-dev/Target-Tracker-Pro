@@ -25,6 +25,20 @@ v0.9.5
 - Acquisizione automatica delle specifiche atmosferiche
 - Coordinate della sessione
 - Analisi aerodinamica
-- Analisi diagnostica L2
+- Analisi diagnostica ambientale L2
 - Nuovi modelli bersaglio
 - Nuovi modelli munizioni
+- Calibrazione dei punti d'impatto 
+- Modelli aerodinamici delle munizioni
+- Modifica sessioni
+
+v1.0.0
+- Inserimento dati bersagli elettronici
+- Inserimento dati ambientali rilevati in poligono
+- Inserimento velocità alla volata per ogni colpo 
+- Profilo cronologico singoli colpi
+- Analisi diagnostica andamento cronologico L3 
+- Analisi profilo di riposo 
+- Analisi tempi tra colpi
+- Analisi oraria delle sessioni
+- Supporto lingua inglese
