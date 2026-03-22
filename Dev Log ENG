@@ -1,0 +1,47 @@
+DEV LOG VERSION
+
+v0.9.0-beta
+
+- Multiple user profiles
+- Multiple UI themes
+- Session comparison
+- Basic analysis and target sheet input
+- Session progression and target sheet tracking
+- Advanced analysis
+- Analysis of MPI, CEP, group size, asymmetry, regularity
+- Sector-based analysis
+- Sector heatmap
+- Diagnostic analysis of shooting sessions
+- Diagnostic analysis of target sheets
+- Automatic calculation of MOA, MIL, and radians for shots
+- Session archive
+- Performance dashboard
+- Trend analysis
+
+- - - - - - ON DEV - - - - - -
+
+v0.9.5
+
+- Backward compatibility
+- Atmospheric specifications
+- Automatic acquisition of atmospheric data
+- Session coordinates
+- Aerodynamic analysis
+- Environmental diagnostic analysis (L2)
+- New target models
+- New ammunition models
+- Impact point calibration
+- Ammunition aerodynamic models
+- Session editing
+
+v1.0.0
+
+- Electronic target data input
+- Environmental data input from shooting range
+- Muzzle velocity input for each shot
+- Chronological profile of individual shots
+- Chronological trend diagnostic analysis (L3)
+- Resting profile analysis
+- Time-between-shots analysis
+- Hourly session analysis
+- English language support
